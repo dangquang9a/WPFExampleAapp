@@ -1,0 +1,15 @@
+C:\Users\dangq\source\repos\WPFExampleApp\WPFExampleApp\bin\Debug\WPFExampleApp.exe.config
+C:\Users\dangq\source\repos\WPFExampleApp\WPFExampleApp\bin\Debug\WPFExampleApp.exe
+C:\Users\dangq\source\repos\WPFExampleApp\WPFExampleApp\bin\Debug\WPFExampleApp.pdb
+C:\Users\dangq\source\repos\WPFExampleApp\WPFExampleApp\obj\Debug\WPFExampleApp.csprojAssemblyReference.cache
+C:\Users\dangq\source\repos\WPFExampleApp\WPFExampleApp\obj\Debug\MainWindow.g.cs
+C:\Users\dangq\source\repos\WPFExampleApp\WPFExampleApp\obj\Debug\App.g.cs
+C:\Users\dangq\source\repos\WPFExampleApp\WPFExampleApp\obj\Debug\WPFExampleApp_MarkupCompile.cache
+C:\Users\dangq\source\repos\WPFExampleApp\WPFExampleApp\obj\Debug\WPFExampleApp_MarkupCompile.lref
+C:\Users\dangq\source\repos\WPFExampleApp\WPFExampleApp\obj\Debug\MainWindow.baml
+C:\Users\dangq\source\repos\WPFExampleApp\WPFExampleApp\obj\Debug\WPFExampleApp.g.resources
+C:\Users\dangq\source\repos\WPFExampleApp\WPFExampleApp\obj\Debug\WPFExampleApp.Properties.Resources.resources
+C:\Users\dangq\source\repos\WPFExampleApp\WPFExampleApp\obj\Debug\WPFExampleApp.csproj.GenerateResource.cache
+C:\Users\dangq\source\repos\WPFExampleApp\WPFExampleApp\obj\Debug\WPFExampleApp.csproj.CoreCompileInputs.cache
+C:\Users\dangq\source\repos\WPFExampleApp\WPFExampleApp\obj\Debug\WPFExampleApp.exe
+C:\Users\dangq\source\repos\WPFExampleApp\WPFExampleApp\obj\Debug\WPFExampleApp.pdb
