@@ -16,9 +16,9 @@
         <TextBox Name="textBox1" Margin="166,33,10,358"></TextBox>
         <TextBox Name="textBox2" Margin="166,97,10,294"/>
 
-        <RadioButton Name="radioButton1" Margin="166,154,274,237">Nam</RadioButton>
-        <RadioButton Name="radioButton2" Margin="278,154,162,237">Nữ</RadioButton>
-        <RadioButton Name="radioButton3" Margin="388,154,52,237">Khác</RadioButton>
+        <RadioButton Name="radioButton1" GroupName="radioButton" Margin="166,154,274,237">Nam</RadioButton>
+        <RadioButton Name="radioButton2" GroupName="radioButton" Margin="278,154,162,237">Nữ</RadioButton>
+        <RadioButton Name="radioButton3" GroupName="radioButton" Margin="388,154,52,237">Khác</RadioButton>
 
         <CheckBox Name="checkBox1" Margin="261,193,149,202">Tiếng Anh</CheckBox>
         <CheckBox Name="checkBox2" Margin="166,193,236,202">Tiếng Trung</CheckBox>

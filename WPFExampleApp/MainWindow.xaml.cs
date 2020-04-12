@@ -31,7 +31,7 @@ namespace WPFExampleApp
             strHoten = textBox1.Text + " " + textBox2.Text;
 
             if (radioButton1.IsChecked == true) strTitle = "Mr.";
-            else if (radioButton2.IsChecked == true) strTitle = "Miss/Mr.s";
+            else if (radioButton2.IsChecked == true) strTitle = "Miss/Mr.s ";
 
             if (checkBox1.IsChecked == true) strNgoaiNgu = "Tiếng Trung";
 
